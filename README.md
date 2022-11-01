@@ -1,6 +1,6 @@
 # Playclapp Task - Cube spawner
 
-- Made with Unity 2020.3.26f1
+- Made with Unity 2021.2.15f1
 - [pirotexnic27@yandex.ru]
 - [Youtube demonstration]
 
